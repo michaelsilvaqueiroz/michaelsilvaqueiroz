@@ -1,6 +1,7 @@
 ## Hi there 👋
 Me  chamo Michael 
 <h1>Uninorte</h1>
+<img src="https://thaka.bing.com/th/id/OIP.G-w1oT3azn6nRoYD6lJNSAHaBc?w=324&h=68&c=7&r=0&o=5&pid=1.7">
 <!--
 **michaelsilvaqueiroz/michaelsilvaqueiroz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
